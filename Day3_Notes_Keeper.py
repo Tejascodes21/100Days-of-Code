@@ -53,10 +53,10 @@ def main():
     
     while True:
         print("\nChoose an option:")
-        print("1️ Write a new note")
-        print("2️ View all notes")
-        print("3️ Delete all notes")
-        print("4️ Exit")
+        print("1 Write a new note")
+        print("2 View all notes")
+        print("3 Delete all notes")
+        print("4 Exit")
 
         try:
             choice = int(input("\nEnter your choice (1-4): "))
