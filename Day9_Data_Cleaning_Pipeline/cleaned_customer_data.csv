@@ -1,0 +1,8 @@
+customer_id,name,age,gender,city,purchase_amount,join_date
+101,Alice,25.0,Female,Pune,25000.0,2022-05-10
+102,Bob,30.0,Male,Mumbai,18000.0,2022-06-14
+103,Charlie,33.0,Male,Delhi,22000.0,
+104,Unknown,45.0,Male,Delhi,23857.14285714286,2022-08-01
+105,Eve,29.0,Not Specified,Pune,27000.0,
+106,Frank,33.0,Male,Mumbai,15000.0,2022-10-09
+107,Grace,38.0,Female,Chennai,30000.0,2022-10-09
