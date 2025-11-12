@@ -1,0 +1,9 @@
+Customer ID,Name,Age,Gender,City,Purchase Amount,Join Date,Outlier,Month
+101,Alice,25,Female,Pune,25000,2022-05-10,1,May
+102,Bob,30,Male,Mumbai,18000,2022-06-14,1,June
+103,Charlie,35,Male,Delhi,22000,2022-07-22,1,July
+104,David,40,Male,Delhi,27000,2022-08-01,1,August
+105,Eve,29,Female,Pune,29000,2022-08-20,1,August
+106,Frank,33,Male,Mumbai,15000,2022-09-10,1,September
+107,Grace,38,Female,Chennai,30000,2022-10-09,1,October
+108,Henry,50,Male,Pune,45000,2022-12-01,-1,December
