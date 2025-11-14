@@ -1,0 +1,12 @@
+File Name     : customer_data.csv
+Rows          : 7
+Columns       : 7
+Column Names  : customer_id, name, age, gender, city, purchase_amount, join_date
+Missing Values:
+  - customer_id: 0
+  - name: 0
+  - age: 0
+  - gender: 0
+  - city: 0
+  - purchase_amount: 0
+  - join_date: 2

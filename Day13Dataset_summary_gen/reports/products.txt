@@ -1,0 +1,9 @@
+File Name     : products.csv
+Rows          : 5
+Columns       : 4
+Column Names  : product_id, name, category, price
+Missing Values:
+  - product_id: 0
+  - name: 0
+  - category: 0
+  - price: 1

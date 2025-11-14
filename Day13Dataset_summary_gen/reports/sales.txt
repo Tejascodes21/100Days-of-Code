@@ -1,0 +1,9 @@
+File Name     : sales.csv
+Rows          : 5
+Columns       : 4
+Column Names  : sale_id, customer_id, amount, date
+Missing Values:
+  - sale_id: 0
+  - customer_id: 0
+  - amount: 1
+  - date: 0
