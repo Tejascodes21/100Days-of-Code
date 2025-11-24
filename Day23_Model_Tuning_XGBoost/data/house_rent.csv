@@ -1,0 +1,11 @@
+city,size_sqft,rooms,bathroom,furnished,floor,rent
+Pune,650,1,1,No,2,14000
+Mumbai,900,2,2,Yes,5,42000
+Delhi,750,2,2,No,3,21000
+Bangalore,1100,3,2,Yes,7,38000
+Pune,500,1,1,No,1,12000
+Mumbai,1200,3,3,Yes,10,55000
+Delhi,600,1,1,No,4,15000
+Bangalore,950,2,2,Yes,6,31000
+Mumbai,700,1,1,Yes,8,37000
+Pune,1000,3,2,No,2,26000
