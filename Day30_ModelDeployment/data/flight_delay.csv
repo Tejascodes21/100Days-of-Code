@@ -1,0 +1,13 @@
+airline,origin,temperature,humidity,wind_speed,visibility,precipitation,delay
+Indigo,DEL,18,35,12,6,0,1
+Indigo,BOM,28,70,15,4,3,1
+SpiceJet,DEL,24,60,10,5,0,0
+AirIndia,BLR,22,55,8,7,0,0
+Vistara,DEL,17,40,16,3,2,1
+AirIndia,BOM,30,80,20,2,5,1
+Indigo,BLR,25,50,6,8,0,0
+SpiceJet,DEL,21,45,14,4,1,1
+Vistara,BOM,29,82,18,3,5,1
+AirIndia,DEL,16,38,10,6,0,0
+SpiceJet,BLR,23,52,12,7,0,0
+Vistara,BLR,27,65,9,5,2,0
