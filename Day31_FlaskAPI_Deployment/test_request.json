@@ -1,0 +1,9 @@
+{
+  "airline": "Indigo",
+  "origin": "DEL",
+  "temperature": 22,
+  "humidity": 70,
+  "wind_speed": 12,
+  "visibility": 3,
+  "precipitation": 4
+}
