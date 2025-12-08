@@ -82,6 +82,10 @@ X_train_rfe, X_test_rfe, y_train, y_test = train_test_split(
 )
 
 model.fit(X_train_rfe, y_train)
+import joblib
+joblib.dump(model, "heart_model.pkl")
+print("Model saved successfully!")
+
 results['RFE'] = accuracy_score(y_test, model.predict(X_test_rfe))
 
 
