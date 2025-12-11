@@ -1,0 +1,18 @@
+data_path: "data/heart.csv"
+target_col: "heart_disease"   
+features:
+  - age
+  - sex
+  - cp
+  - trestbps
+  - chol
+  - thalach
+  - oldpeak
+  - exang
+  - ca
+models_dir: "models"
+artifacts_dir: "artifacts"
+logs_dir: "logs"
+random_state: 42
+test_size: 0.2
+model_prefix: "heart_model"

@@ -1,0 +1,14 @@
+2025-12-11 23:59:29,305 INFO Starting pipeline run
+2025-12-11 23:59:29,328 INFO Loaded data: data/heart.csv rows=20
+2025-12-11 23:59:29,345 INFO Training completed
+2025-12-11 23:59:29,368 INFO Evaluation metrics: {'accuracy': 0.75, 'precision': 0.75, 'recall': 1.0, 'f1': 0.8571428571428571, 'roc_auc': 1.0}
+2025-12-11 23:59:29,370 INFO Saved model: heart_model_20251211_235929.pkl -> models\heart_model_20251211_235929.pkl
+2025-12-11 23:59:29,376 INFO Metrics logged to artifacts
+2025-12-11 23:59:29,376 INFO Pipeline run completed
+2025-12-12 00:04:32,138 INFO Starting pipeline run
+2025-12-12 00:04:32,145 INFO Loaded data: data/heart.csv rows=20
+2025-12-12 00:04:32,153 INFO Training completed
+2025-12-12 00:04:32,165 INFO Evaluation metrics: {'accuracy': 0.75, 'precision': 0.75, 'recall': 1.0, 'f1': 0.8571428571428571, 'roc_auc': 1.0}
+2025-12-12 00:04:32,166 INFO Saved model: heart_model_20251212_000432.pkl -> models\heart_model_20251212_000432.pkl
+2025-12-12 00:04:32,171 INFO Metrics logged to artifacts
+2025-12-12 00:04:32,171 INFO Pipeline run completed
