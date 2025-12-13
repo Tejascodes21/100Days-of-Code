@@ -1,0 +1,7 @@
+Day 41 – Model Evaluation & Error Analysis
+
+ROC-AUC (Logistic Regression): 0.833
+ROC-AUC (Decision Tree): 0.833
+Threshold used: 0.35
+False Positives: 1
+False Negatives: 0
