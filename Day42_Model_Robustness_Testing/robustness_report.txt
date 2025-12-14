@@ -1,0 +1,6 @@
+Day 42 – Model Robustness & Stress Testing Report
+
+Baseline ROC-AUC: 0.833
+Stress Test ROC-AUC: 0.833
+Noisy Data ROC-AUC: 0.833
+Avg Prediction Sensitivity (income): 0.0225
