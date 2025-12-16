@@ -1,4 +1,4 @@
-# Day 40 - Loan Default Preprocessing & Modeling (No imblearn required)
+# Day 40 - Loan Default Preprocessing & Modeling
 
 import pandas as pd
 import numpy as np
