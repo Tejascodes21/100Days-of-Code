@@ -1,0 +1,7 @@
+run_id,timestamp,model,C,solver,accuracy,f1_score,model_path
+a3f9c1d2,2025-12-16 10:12:45,LogisticRegression,1.0,lbfgs,0.82,0.8,models/model_a3f9c1d2.pkl
+b7e42f91,2025-12-16 10:18:30,LogisticRegression,0.5,lbfgs,0.79,0.77,models/model_b7e42f91.pkl
+c91d7a3e,2025-12-16 10:25:12,LogisticRegression,2.0,lbfgs,0.84,0.83,models/model_c91d7a3e.pkl
+d48a9f20,2025-12-16 10:31:58,LogisticRegression,1.5,lbfgs,0.81,0.79,models/model_d48a9f20.pkl
+7334439a,2025-12-18 23:31:25.843544,LogisticRegression,1.0,lbfgs,1.0,1.0,models/model_7334439a.pkl
+0c9983a9,2025-12-18 23:33:21.702467,LogisticRegression,1.0,lbfgs,1.0,1.0,models/model_0c9983a9.pkl
