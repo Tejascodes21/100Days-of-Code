@@ -1,0 +1,33 @@
+[
+    {
+        "model_name": "heart_risk_classifier",
+        "version": "v1.0",
+        "dataset_version": "dataset_v1.csv",
+        "algorithm": "LogisticRegression",
+        "accuracy": 0.81,
+        "f1_score": 0.79,
+        "trained_on": "2025-01-15T10:20:00",
+        "status": "archived",
+        "model_path": "models/model_v1.pkl",
+        "notes": "Initial production model trained on baseline dataset."
+    },
+    {
+        "model_name": "heart_risk_classifier",
+        "version": "v1.1",
+        "dataset_version": "dataset_v1.csv",
+        "algorithm": "LogisticRegression",
+        "accuracy": 0.84,
+        "f1_score": 0.83,
+        "trained_on": "2025-01-16T14:35:00",
+        "status": "production",
+        "model_path": "models/model_v1_1.pkl",
+        "notes": "Improved regularization and feature scaling."
+    },
+    {
+        "version": "v2",
+        "accuracy": 0.84,
+        "dataset_version": "v1",
+        "created_at": "2025-12-20T01:00:42.086439",
+        "status": "archived"
+    }
+]
