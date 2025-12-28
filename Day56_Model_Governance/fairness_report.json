@@ -1,0 +1,13 @@
+{
+  "sensitive_feature": "gender",
+  "group_metrics": {
+    "M": {
+      "positive_rate": 0.75
+    },
+    "F": {
+      "positive_rate": 0.25
+    }
+  },
+  "fairness_assessment": "Potential disparity detected between groups",
+  "recommended_action": "Review feature importance and retrain with balanced data"
+}

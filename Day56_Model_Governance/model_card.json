@@ -1,0 +1,20 @@
+{
+  "model_name": "Loan Default Classifier",
+  "version": "v1.0",
+  "owner": "Data Science Team",
+  "intended_use": "Predict loan default risk for internal decision support",
+  "training_data": "Historical loan applicant data (2018–2023)",
+  "evaluation_metrics": {
+    "accuracy": 0.82,
+    "precision": 0.78,
+    "recall": 0.75
+  },
+  "ethical_considerations": [
+    "Predictions should not be used as the sole decision factor",
+    "Human review required for high-risk cases"
+  ],
+  "limitations": [
+    "Model may underperform on unseen demographics",
+    "Does not account for recent economic shifts"
+  ]
+}
