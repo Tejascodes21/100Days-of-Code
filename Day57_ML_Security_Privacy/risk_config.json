@@ -1,0 +1,11 @@
+{
+  "pii_columns": ["user_id"],
+  "sensitive_attributes": ["gender", "income"],
+  "high_risk_use_case": true,
+  "privacy_threshold": "medium",
+  "allowed_features": [
+    "age",
+    "income",
+    "credit_score"
+  ]
+}

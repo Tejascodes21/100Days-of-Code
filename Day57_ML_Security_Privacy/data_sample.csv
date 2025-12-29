@@ -1,0 +1,5 @@
+user_id,age,gender,income,credit_score,loan_default
+U001,32,M,600000,720,0
+U002,45,F,850000,690,1
+U003,29,F,420000,710,0
+U004,51,M,900000,650,1
